@@ -11812,11 +11812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ASPNETCoreMVCLojaVirtual\\Secao02\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ASPNETCoreMVCLojaVirtual\\Secao02\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ProjetoZero\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\AspNetCoreMVC-Elias\\ASPNETCoreMVCLojaVirtual\\Secao02\\ProjetoZero\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
